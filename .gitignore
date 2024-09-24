@@ -3,7 +3,7 @@ node_modules
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
-!.yarn/sdks
+!.yarn/sdks34
 !.yarn/versions
 
 .DS_Store
